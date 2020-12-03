@@ -15,5 +15,10 @@ https://www.webslesson.info/2017/08/display-online-users-using-php-mysql-with-aj
 https://www.xspdf.com/resolution/50693359.html
 
 
+https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+
+https://codepen.io/onlyveen/pen/KmoaVR
+
+
 
 
