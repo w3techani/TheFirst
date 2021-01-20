@@ -33,6 +33,12 @@ https://codepen.io/onlyveen/pen/KmoaVR
   <style>
   
 
+
+https://serverok.in/amazon-rds-too-many-connections
+
+https://aws.amazon.com/blogs/database/best-practices-for-configuring-parameters-for-amazon-rds-for-mysql-part-3-parameters-related-to-security-operational-manageability-and-connectivity-timeout/
+
+
     #fullwidth-video{
     height: 50vw; 
     min-height:50vh;
