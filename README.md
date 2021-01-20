@@ -90,7 +90,7 @@ https://aws.amazon.com/blogs/database/best-practices-for-configuring-parameters-
 </head>
 <body>
 
-
+how to create error report of max_connection error in rds
 <div id="fullwidth-video">
   <div class="fullwidth-video-bg">
    <video playsinline autoplay muted onplaying="this.controls=false" loop>
