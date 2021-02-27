@@ -102,3 +102,18 @@ how to create error report of max_connection error in rds
 </body>
 </html>
 
+
+
+
+Here are this week's five links that are worth your time:
+
+1. freeCodeCamp just published an epic 17-hour Data Visualization course. You'll learn: D3.js, SVG graphics, React, React hooks – all while building several data visualization projects. (17 hour YouTube course): https://www.freecodecamp.org/news/learn-data-visualization-in-this-free-17-hour-course/
+
+2. We are translating freeCodeCamp's curriculum into 30 world languages, and both Spanish and Chinese versions are now live. If you are fortunate enough to be bilingual, I encourage you to help translate, and make these learning resources more accessible for people around the world. (5 minute read): https://www.freecodecamp.org/news/world-language-translation-effort/
+
+3. What is a file system? This computer architecture tutorial will teach you how operating systems handle files, partitions, and data storage. (40 minute read): https://www.freecodecamp.org/news/file-systems-architecture-explained/
+
+4. How to code Python apps right on your Android phone – no laptop required. You'll use Pydroid, a powerful integrated development environment, to build a Django project using an Android phone's touch screen. (12 minute read): https://www.freecodecamp.org/news/how-to-code-on-your-phone-python-pydroid-android-app-tutorial/
+
+5. My friend uncovered 1,600 Coursera university courses that you can still take for free. And he shows you step-by-step how to access them. (browsable list): https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/
+
