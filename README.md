@@ -117,3 +117,5 @@ Here are this week's five links that are worth your time:
 
 5. My friend uncovered 1,600 Coursera university courses that you can still take for free. And he shows you step-by-step how to access them. (browsable list): https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/
 
+
+https://www.phpcluster.com/how-to-force-download-a-file-with-php/
