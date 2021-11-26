@@ -119,3 +119,18 @@ Here are this week's five links that are worth your time:
 
 
 https://www.phpcluster.com/how-to-force-download-a-file-with-php/
+
+
+
+44
+
+After much banging-head-on-table, I have a bit better understanding of the issue that I wanted to post for anyone else who may have had this issue.
+
+While the UTF-8 character set will display special characters on the client, the server, on the other hand, may not be so accomodating and would print special characters such as à and è as � and �.
+
+To make sure your server will print them correctly, use the ISO-8859-1 charset:
+
+<?php
+    /*Just for your server-side code*/
+    header('Content-Type: text/html; charset=ISO-8859-1');
+?>
