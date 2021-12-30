@@ -134,3 +134,39 @@ To make sure your server will print them correctly, use the ISO-8859-1 charset:
     /*Just for your server-side code*/
     header('Content-Type: text/html; charset=ISO-8859-1');
 ?>
+
+
+
+
+
+
+
+
+
+
+
+
+$url = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
+ $needle = "view-source:";
+ $rre = $needle.$url;
+ $rrr = $needle.$url;
+ if ($rre == $rrr ) 
+ {
+	exit(); 
+	//header("Location: https://google.com/");
+ }
+ 
+<body oncontextmenu="return false">
+<script>
+$(document).keydown(function(e){
+    if(e.which === 123){
+        return false;
+    }
+});
+document.addEventListener("keydown", function (event) {
+    if (event.ctrlKey) {
+        event.preventDefault();
+    }   
+});
+</script>
+</body>
