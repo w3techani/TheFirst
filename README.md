@@ -170,3 +170,12 @@ document.addEventListener("keydown", function (event) {
 });
 </script>
 </body>
+
+
+
+
+
+
+
+
+https://laratutorials.com/laravel-8-ajax-crud-tutorial/
