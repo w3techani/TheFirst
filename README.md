@@ -179,3 +179,11 @@ document.addEventListener("keydown", function (event) {
 
 
 https://laratutorials.com/laravel-8-ajax-crud-tutorial/
+
+
+https://techvblogs.com/blog/build-crud-app-with-laravel-and-reactjs
+
+https://www.google.com/search?q=laravel+8+and+react+crud&ei=exHoYe3yMIqvoASyyq34DQ&oq=laravel+8+and+re&gs_lcp=Cgdnd3Mtd2l6EAEYADIFCAAQgAQyBQgAEIAEMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoHCAAQRxCwAzoFCAAQkQJKBAhBGABKBAhGGABQlhJY4CFguU1oAXACeACAAaUBiAG0B5IBAzAuNpgBAKABAcgBCMABAQ&sclient=gws-wiz
+
+
+
