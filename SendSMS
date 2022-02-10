@@ -1,0 +1,31 @@
+<?php
+    $digits = 6;
+	$i = 0; //counter
+    $otp = ""; //our default pin is blank.
+    while($i < $digits){
+        //generate a random number between 0 and 9.
+        $otp .= rand(0, 9);
+        $i++;
+    }
+    $message = ''.$otp.' is your One Time Password for login and only valid for 5 minutes. Please DO NOT share this OTP with anyone.';
+    $message = urlencode($message);
+    $mobile= '9637464129';
+    $baseurl = 'http://mysmsshop.in/V2/http-api.php?apikey=xszjjjjhhggVgLtUgg&senderid=ONEESM&format=json&template=1207161795723936542&route=1';
+ 
+    $url = $baseurl.'&number=91'.$mobile.'&message='.$message;    
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_POST, false);
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    $response = curl_exec($ch);
+    curl_close($ch);
+ 
+    // Use file get contents when CURL is not installed on server.
+    if(!$response){
+        $response = file_get_contents($url);
+    }
+
+
+
+
+?>
